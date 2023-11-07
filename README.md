@@ -5,6 +5,7 @@ I am a Ph.D student candidate in Computer Software and Theory at Peking Universi
 
 #### Research Interests
 🌟🌟🌟🌟🌟 AI4SE **->** Automated requirement model in SE **->** **NER** task in NLP
+               **->** Requirement-to-Code Traceability in SE 
 
 🌟🌟🌟🌟🌟 Prompt Engineering **->** **Large Language Model** for developer teams
 
@@ -19,9 +20,11 @@ I am a Ph.D student candidate in Computer Software and Theory at Peking Universi
 #### Recent Projects
 
 - **[NER-Survey]**: A curated list of papers, datasets and tools related to the NER task.
+- **[RS-NER-dataset]**: Three name entity recognition datasets for requirement model elements extraction.
 
 
 [NER-Survey]: https://github.com/jdm4pku/NER-Survey
+[RS-NER-dataset]:https://github.com/jdm4pku/RS-NER-dataset
 
 <!--
 **jdm4pku/jdm4pku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
